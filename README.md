@@ -1,2 +1,3 @@
-# ceramics
-my ceramics portfolio!
+# MADDIE G CERAMICS
+
+my ceramic portfolio website
